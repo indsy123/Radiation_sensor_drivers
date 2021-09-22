@@ -1,4 +1,4 @@
-# domino_neutron_sensor
+# Drivers for Rad Sensors at UD
 ROS linked drivers for Domino Neutron Sensor
 
 This package contains the ROS drivers for Domino Neutron Sensor described at https://www.rotundascitech.com/products/domino-neutron-detector. 
